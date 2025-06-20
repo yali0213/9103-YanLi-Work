@@ -6,7 +6,7 @@ This project presents an interactive animation controlled by mouse movements. Mo
 For my individual animation, I chose User Input (mouse interaction) as the driving method, based on our group animation framework. The vertical position of the mouse controls how many circles (representing leaves or fruits) appear on the tree, while the horizontal position controls their rotation direction. Additionally, clicking on the upper part of the tree (the canopy) triggers individual fruits to fall to the ground.
 
 My inspiration comes from the symbolic representation of life in Shemza’s work “The Apple Tree”. I wanted users to take part in the growth of the tree—through their mouse movements, they influence the speed of its blooming and the direction it sways. The falling of the fruits back to the soil represents the cyclical nature of life, completing a poetic loop of growth and return.
-![Areas where fruit can be dropped by clicking ]()Picture\canopy.png
+![Areas where fruit can be dropped by clicking](Picture/canopy.png)
 In terms of animation, I implemented several key techniques to enrich the visual experience:
 
 ## Animation properties and technological innovation
